@@ -1,0 +1,21 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Player",
+    "pages/search/SearchPage",
+    "pages/detail/AlbumDetail",
+    "pages/detail/SingerDetail",
+    "pages/detail/SongListDetail",
+    "pages/detail/AlbumList",
+    "pages/detail/SingerList",
+    "pages/detail/SongListList",
+    "pages/search/SearchDetail",
+    "pages/user/CollectionPage",
+    "pages/user/CommentPage",
+    "pages/user/FollowPage",
+    "pages/user/HistoryPage",
+    "pages/Comment",
+    "pages/MusicVideo",
+    "pages/detail/RankDetail"
+  ]
+}
